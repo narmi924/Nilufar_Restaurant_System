@@ -365,7 +365,7 @@ Nilufar_Restaurant_System/
 1. **克隆项目**
 
 ```bash
-git clone [项目地址]
+git clone https://github.com/narmi924/Nilufar_Restaurant_System
 cd Nilufar_Restaurant_System
 ```
 
@@ -378,20 +378,24 @@ pip install -r requirements.txt
 1. **配置DeepSeek API（可选）**
 
 ```ini
-# 创建config.ini文件并配置API密钥
-[deepseek]
-api_key = your_deepseek_api_key_here
-base_url = https://api.deepseek.com
-timeout = 90
+在设置中的API配置页面中输入自己的DeepSeek API密钥
 ```
 
 1. **运行系统**
 
+下载安装包安装后直接运行exe文件
+
+或者
 ```bash
 python app.py
 # 或者
 python run.py
+# 或者
+使用
+PyInstaller --noconsole --onefile --icon="my_icon.ico" --add-data "restaurant.db;." --add-data "sounds;sounds" --name "美莲花餐厅系统" app.py
+来打包生成exe文件并运行
 ```
+
 
 ### 首次使用
 
@@ -542,6 +546,7 @@ A: AI分析功能仅限管理员使用，需要：
 
 ## 更新日志
 
-**当前版本**: v1.0
+**当前版本**: v2.0
 **开发**: Imranjan Mamtimin
-**更新日期**: 2025年6月15日
+**更新日期**: 2025年8月8日
+
