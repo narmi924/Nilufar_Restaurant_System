@@ -387,13 +387,12 @@ pip install -r requirements.txt
 
 或者
 ```bash
+# 正确目录下在终端运行：
 python app.py
-# 或者
-python run.py
-# 或者
-使用
+
+# 或者运行：
 PyInstaller --noconsole --onefile --icon="my_icon.ico" --add-data "restaurant.db;." --add-data "sounds;sounds" --name "美莲花餐厅系统" app.py
-来打包生成exe文件并运行
+# 来打包生成exe文件并运行
 ```
 
 
@@ -402,7 +401,7 @@ PyInstaller --noconsole --onefile --icon="my_icon.ico" --add-data "restaurant.db
 1. 系统启动后会自动创建数据库和初始数据
 2. 使用默认账户登录：
    - 用户名: admin
-   - 密码: 123456
+   - 密码: 000000
 3. 登录后可以开始录入支出数据
 
 ## 使用指南
@@ -549,4 +548,5 @@ A: AI分析功能仅限管理员使用，需要：
 **当前版本**: v2.0
 **开发**: Imranjan Mamtimin
 **更新日期**: 2025年8月8日
+
 
