@@ -3,7 +3,7 @@
 ## نىلۇپار ئاشخانا چىقىم خاتىرىسى سىستېمىسى
 
 一个专为美莲花餐厅设计的现代化支出记录管理系统，采用双语界面（中文/维语）和Fluent Design设计风格。初始管理员用户名：Admin；初始管理员密码：000000.
-[![下载安装包](https://img.shields.io/badge/下载安装包-Download-brightgreen?style=for-the-badge)](https://github.com/narmi924/Nilufar_Restaurant_System/releases/download/v2.0/Nilufar_Restaurant_System_Setup.exe)
+[![下载安装包](https://img.shields.io/badge/下载安装包-Download-brightgreen?style=plastic)](https://github.com/narmi924/Nilufar_Restaurant_System/releases/download/v2.0/Nilufar_Restaurant_System_Setup.exe)
 
 ## 系统概述
 
@@ -549,6 +549,7 @@ A: AI分析功能仅限管理员使用，需要：
 **当前版本**: v2.0
 **开发**: Imranjan Mamtimin
 **更新日期**: 2025年8月8日
+
 
 
 
