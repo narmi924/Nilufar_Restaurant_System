@@ -540,7 +540,7 @@ A: AI分析功能仅限管理员使用，需要：
 
 ## 技术支持
 
-如有技术问题或功能建议，请联系Imranjan Mamtimin：[![点击联系](https://img.shields.io/badge/点%20击%20联%20系-8A2BE2-)](https://www.imranjan.cn/)。
+如有技术问题或功能建议，请联系Imranjan Mamtimin：[![点击联系](https://img.shields.io/badge/点击联系-8A2BE2)](https://www.imranjan.cn/about)。
 
 ---
 
@@ -549,6 +549,7 @@ A: AI分析功能仅限管理员使用，需要：
 **当前版本**: v2.0
 **开发**: Imranjan Mamtimin
 **更新日期**: 2025年8月8日
+
 
 
 
